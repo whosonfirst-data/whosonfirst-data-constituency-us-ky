@@ -9,7 +9,7 @@
     "geom:bbox":"-84.35597,36.587691,-83.8775,37.028264",
     "geom:latitude":36.777558,
     "geom:longitude":-84.145911,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1231973854.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 82",
     "uscensus:sldlst":"082",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486710,
     "wof:geomhash":"7aa9fd7aaee29bd7911d5a531c819b07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765673,
     "wof:lastmodified":1481486710,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

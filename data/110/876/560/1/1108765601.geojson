@@ -9,7 +9,7 @@
     "geom:bbox":"-85.74257,37.52295,-85.15055,37.990654",
     "geom:latitude":37.805131,
     "geom:longitude":-85.465988,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1081354528.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 50",
     "uscensus:sldlst":"050",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486701,
     "wof:geomhash":"45fcae19f3fdcb8166f7176d0a16b0bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765601,
     "wof:lastmodified":1481486701,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

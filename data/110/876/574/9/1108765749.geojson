@@ -9,7 +9,7 @@
     "geom:bbox":"-85.60162,36.5917,-84.22677,37.482951",
     "geom:latitude":36.921522,
     "geom:longitude":-85.02818,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5989842780.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 16",
     "uscensus:sldust":"016",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486727,
     "wof:geomhash":"aab992a1da8e1c2410d0faa4449153b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765749,
     "wof:lastmodified":1481486727,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

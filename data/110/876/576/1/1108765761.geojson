@@ -9,7 +9,7 @@
     "geom:bbox":"-84.36889,36.939116,-83.43394,38.302707",
     "geom:latitude":37.608116,
     "geom:longitude":-83.916297,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4386390335.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 21",
     "uscensus:sldust":"021",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486729,
     "wof:geomhash":"1bd2ed80916ee9268bb5147685c4eaea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765761,
     "wof:lastmodified":1481486729,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-88.5662,36.809733,-87.35219,37.547222",
     "geom:latitude":37.201053,
     "geom:longitude":-88.040324,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3009266239.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 4",
     "uscensus:sldlst":"004",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486682,
     "wof:geomhash":"539d97117ba6cc536136f27eb0195b10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765497,
     "wof:lastmodified":1481486682,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

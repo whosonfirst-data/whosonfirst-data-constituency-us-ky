@@ -9,7 +9,7 @@
     "geom:bbox":"-86.2093,36.722722,-85.73925,37.16981",
     "geom:latitude":36.965471,
     "geom:longitude":-85.938552,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1289116501.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 23",
     "uscensus:sldlst":"023",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486690,
     "wof:geomhash":"4b2fe1afcb31bc7ca7b70647124ab10a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765541,
     "wof:lastmodified":1481486690,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

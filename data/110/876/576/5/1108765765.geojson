@@ -9,7 +9,7 @@
     "geom:bbox":"-84.62375,38.941952,-84.42679,39.09998",
     "geom:latitude":39.027558,
     "geom:longitude":-84.54423,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":133933156.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 23",
     "uscensus:sldust":"023",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486730,
     "wof:geomhash":"f124f5ba8a21e7f35f4009e207086faf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765765,
     "wof:lastmodified":1481486730,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-84.23596,38.170963,-83.45273,38.82744",
     "geom:latitude":38.521354,
     "geom:longitude":-83.861477,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2315956944.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 70",
     "uscensus:sldlst":"070",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486707,
     "wof:geomhash":"1b953dd9082825b42b420faf16c928c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765645,
     "wof:lastmodified":1481486707,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

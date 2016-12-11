@@ -9,7 +9,7 @@
     "geom:bbox":"-83.95727,36.5826,-82.85564,36.979605",
     "geom:latitude":36.771927,
     "geom:longitude":-83.485389,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1645223745.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 87",
     "uscensus:sldlst":"087",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486712,
     "wof:geomhash":"ef9a684c4548ee28a0944cd1385efbee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765685,
     "wof:lastmodified":1481486712,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

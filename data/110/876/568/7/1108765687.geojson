@@ -9,7 +9,7 @@
     "geom:bbox":"-84.52401,37.845261,-84.28263,38.041692",
     "geom:latitude":37.952613,
     "geom:longitude":-84.395656,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":208847377.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 88",
     "uscensus:sldlst":"088",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486712,
     "wof:geomhash":"abd14f2b16b29b3a95fb119980be84fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765687,
     "wof:lastmodified":1481486712,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],

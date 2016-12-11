@@ -9,7 +9,7 @@
     "geom:bbox":"-84.87926,38.79065,-84.59803,39.041956",
     "geom:latitude":38.922073,
     "geom:longitude":-84.729777,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":360795722.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 60",
     "uscensus:sldlst":"060",
     "uscensus:statefp":"21",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486704,
     "wof:geomhash":"214cdeeee4756152c4076e0d2a48d642",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108765623,
     "wof:lastmodified":1481486704,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688641,
     "wof:repo":"whosonfirst-data-constituency-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
